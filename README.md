@@ -1,2 +1,2 @@
-# CS522-Big_Data_Assignments
+# CS522-BigDataAssignments
 MUM Compro CS522 Big Data Assignments
