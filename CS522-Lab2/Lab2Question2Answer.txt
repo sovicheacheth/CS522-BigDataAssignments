@@ -1,0 +1,38 @@
+Answer:
+
+
+
+int f(x){
+	
+	if(x==3) return 3;
+	
+	else if(x==4) return 4;
+	
+	else return 0;
+} 
+
+
+
+int g(x,y){
+	
+	int m = x;
+	
+	if(x != y) m=x+y;
+
+	
+	if(x == 7) return 7;
+	
+	else if(m == 7) return 7;
+	
+	else return x+y
+} 
+
+
+
+Initial Value and interpretation:
+
+Init value: 0
+
+4 is not nice array
+
+0, 3, 7 is nice array
